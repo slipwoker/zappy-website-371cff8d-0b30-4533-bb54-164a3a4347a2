@@ -1,0 +1,101 @@
+# Plania — Generative Engine Optimization Map
+
+> Plania is a premium home organization brand built around the philosophy of 'Planning Made Pretty' — transforming the stressful, repetitive chaos of weekly meal planning into a calm, enjoyable, and visually beautiful experience. The brand targets busy mothers and parents overwhelmed by daily household decisions, offering two thoughtfully designed product lines: a tactile Physical Kit with high-quality printed organizational tools, and a convenient Digital Kit for on-the-go planning. Plania's identity is rooted in aesthetic elegance — structured, intuitive layouts featuring tabs like Weekly Board, Meal Index, Shopping List, and Guide — all wrapped in a clean, classic, slightly vintage high-end design that feels as good to look at as it is to use.
+
+---
+
+## Pages
+
+### בית
+https://plania-371cff8d.zappy5.app
+נמאס מהכאוס של תכנון ארוחות שבועי למשפחה? Plania הופכת את הבלאגן היומיומי לחוויה יפה ושקטה. קיט הארגון שכל אמא עסוקה חיכתה לו.
+
+### איך זה עובד
+https://plania-371cff8d.zappy5.app/how-it-works
+גלי איך קיט הארגון של Plania עובד בפועל — מלוח שבועי חכם ועד רשימת קניות מסודרת. הורדה דיגיטלית לתכנון שבועי או ערכה מודפסת — את בוחרת את הדרך שלך.
+
+### סיפורים
+https://plania-371cff8d.zappy5.app/stories
+קראי סיפורים אמיתיים של הורים עסוקים שהפסיקו לשאול &#39;מה אוכלים היום?&#39; — ארגון הבית לאמהות שהפך לשגרה מהנה ויפה עם Plania. ההשראה שלך מחכה כאן.
+
+### צור קשר
+https://plania-371cff8d.zappy5.app/contact
+רוצה לדעת איזה קיט מתאים לך — דיגיטלי או מודפס? צרי קשר עם צוות Plania ונעזור לך לבחור את הדרך הנכונה לתכנון ארוחות ולארגון המטבח שלך. נשמח לשמוע ממך.
+
+### Products
+https://plania-371cff8d.zappy5.app/products
+המוצרים שלנו - Plania
+
+### Cart
+https://plania-371cff8d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://plania-371cff8d.zappy5.app/checkout
+תשלום
+
+### Login
+https://plania-371cff8d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://plania-371cff8d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://plania-371cff8d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://plania-371cff8d.zappy5.app/product/:slug
+פרטי המוצר - Plania
+
+### Category
+https://plania-371cff8d.zappy5.app/category/:slug
+מוצרים - Plania
+
+## Legal & Policy
+
+### Privacy Policy
+https://plania-371cff8d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://plania-371cff8d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://plania-371cff8d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Plania
+Plania is a premium home organization brand built around the philosophy of 'Planning Made Pretty' — transforming the stressful, repetitive chaos of weekly meal planning into a calm, enjoyable, and visually beautiful experience. The brand targets busy mothers and parents overwhelmed by daily household decisions, offering two thoughtfully designed product lines: a tactile Physical Kit with high-quality printed organizational tools, and a convenient Digital Kit for on-the-go planning. Plania's identity is rooted in aesthetic elegance — structured, intuitive layouts featuring tabs like Weekly Board, Meal Index, Shopping List, and Guide — all wrapped in a clean, classic, slightly vintage high-end design that feels as good to look at as it is to use.
+
+## Target Audience
+- Mothers, parents, and busy individuals looking to streamline home management, save time, and bring order and calm to weekly meal planning
+- אמהות עסוקות
+- הורים עובדים
+- משפחות חוסכות זמן
+
+## Industry
+E-commerce / Home Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://plania-371cff8d.zappy5.app/sitemap.xml
+- Robots: https://plania-371cff8d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://plania-371cff8d.zappy5.app/llms-full.txt
+- Products (JSON): https://plania-371cff8d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://plania-371cff8d.zappy5.app/product-feed.xml
