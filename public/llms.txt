@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://plania-371cff8d.zappy5.app
+https://example.com
 נמאס מהכאוס של תכנון ארוחות שבועי למשפחה? Plania הופכת את הבלאגן היומיומי לחוויה יפה ושקטה. קיט הארגון שכל אמא עסוקה חיכתה לו.
 
 ### איך זה עובד
-https://plania-371cff8d.zappy5.app/how-it-works
+https://example.com/how-it-works
 גלי איך קיט הארגון של Plania עובד בפועל — מלוח שבועי חכם ועד רשימת קניות מסודרת. הורדה דיגיטלית לתכנון שבועי או ערכה מודפסת — את בוחרת את הדרך שלך.
 
 ### סיפורים
-https://plania-371cff8d.zappy5.app/stories
+https://example.com/stories
 קראי סיפורים אמיתיים של הורים עסוקים שהפסיקו לשאול &#39;מה אוכלים היום?&#39; — ארגון הבית לאמהות שהפך לשגרה מהנה ויפה עם Plania. ההשראה שלך מחכה כאן.
 
 ### צור קשר
-https://plania-371cff8d.zappy5.app/contact
+https://example.com/contact
 רוצה לדעת איזה קיט מתאים לך — דיגיטלי או מודפס? צרי קשר עם צוות Plania ונעזור לך לבחור את הדרך הנכונה לתכנון ארוחות ולארגון המטבח שלך. נשמח לשמוע ממך.
 
 ### Products
-https://plania-371cff8d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Plania
 
 ### Cart
-https://plania-371cff8d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://plania-371cff8d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://plania-371cff8d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://plania-371cff8d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://plania-371cff8d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://plania-371cff8d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Plania
 
 ### Category
-https://plania-371cff8d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Plania
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://plania-371cff8d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://plania-371cff8d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://plania-371cff8d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ E-commerce / Home Organization
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://plania-371cff8d.zappy5.app/sitemap.xml
-- Robots: https://plania-371cff8d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://plania-371cff8d.zappy5.app/llms-full.txt
-- Products (JSON): https://plania-371cff8d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://plania-371cff8d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
