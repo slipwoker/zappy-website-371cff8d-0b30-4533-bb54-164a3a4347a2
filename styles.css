@@ -13779,6 +13779,12 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.navbar .logo-link {
+  background-color: rgba(36, 49, 58, 0.85);
+  border-radius: 10px;
+  padding: 5px 10px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
